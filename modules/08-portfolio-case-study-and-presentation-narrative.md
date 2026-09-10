@@ -4,7 +4,7 @@
 A strong case study demonstrates product judgment, process rigor, and implementation awareness.
 
 ## Practical guidance
-- Build a narrative from business problem to shipped-ready direction.
+- Build a narrative from business problem to shipping-ready direction.
 - Show decision checkpoints, tradeoffs, and constraint handling.
 - Present outcomes through artifacts, not claims.
 
