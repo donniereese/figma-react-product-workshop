@@ -83,7 +83,7 @@ This workshop is intentionally business-facing. Your outputs should demonstrate:
 - Product reasoning (problem framing, stakeholder logic, KPI alignment)
 - UX process strength (roles, workflow analysis, IA, usability choices)
 - Visual/UI craft (hierarchy, consistency, enterprise clarity)
-- Systems thinking (components, tokens, variants, states)
+- Systems thinking (components, variants, states)
 - React handoff readiness (interaction behavior, state logic, responsive expectations, accessibility requirements)
 
 Use this repository as a guided structure to create work that feels credible in healthcare, internal tooling, and enterprise modernization contexts.
